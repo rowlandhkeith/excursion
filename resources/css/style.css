@@ -15,6 +15,10 @@ nav {
     text-align: center;
     text-decoration: none;
 }
+a:link {
+    color:inherit;
+    color: aquamarine;
+}
 .flex1{
     display: flex;
     justify-content: center;
@@ -42,4 +46,15 @@ video {
     display: flex;
     justify-content: center;
     margin: 40px 0px;
+}
+.soon {
+    text-align: center;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+footer{
+    text-align: right;
+    color: gray;
+    margin-top: 60px;
 }
